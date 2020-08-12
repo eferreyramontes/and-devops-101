@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello DevOps!
+          Hello Emmanuel? Let's do some fresh code?
         </a>
       </header>
     </div>
